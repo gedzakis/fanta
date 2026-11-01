@@ -1,0 +1,8 @@
+{
+  "name": "Fanta 3D - Tradicionalna Igra Novčićima",
+  "description": "Autentična 3D simulacija tradicionalne ulične igre Fanta (Krajcarice). Bacanje novčića ka liniji, fizika klizanja, bacanje uvis i brojanje glava i pisama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
